@@ -2,4 +2,4 @@ streamlit
 langchain
 duckduckgo-search
 ollama
-chroma
+chromadb
